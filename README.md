@@ -36,12 +36,16 @@
 
 ![Github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-**To insert a table**  
+**To insert a table**
+
 |Name|Branch|RollNo|  
 |-----|----|----|  
 |Tanmai|CSE|5I5|  
 |Nikhitha|CSE|5I7|  
 |Suma|CSE|5I2|
+
+--------------------------
+**Emojis**
 
 :satisfied:  
 :kissing:  
